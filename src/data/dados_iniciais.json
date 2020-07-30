@@ -1,6 +1,48 @@
 {
   "categorias": [
     {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "SHAZAM!",
+          "url": "https://www.youtube.com/watch?v=go6GEIrcvFY"
+        },
+        {
+          "titulo": "VENOM",
+          "url": "https://www.youtube.com/watch?v=u9Mv98Gr5pY&list=LLGNo2p-s5IO6DPpGcrL_DDw&index=778"
+        },
+        {
+          "titulo": "Doutor Estranho",
+          "url": "https://www.youtube.com/watch?v=YUfWrIcX4zw"
+        },
+        {
+          "titulo": "Bumblebee",
+          "url": "https://www.youtube.com/watch?v=lcwmDAYt22k"
+        },
+        {
+          "titulo": "Minha Mãe é Uma Peça 3",
+          "url": "https://www.youtube.com/watch?v=vQs31hCrUU8"
+        },
+        {
+          "titulo": "Deadpool",
+          "url": "https://www.youtube.com/watch?v=Q9X-bAE8KTc"
+        },
+        {
+          "titulo": "BIRD BOX",
+          "url": "https://www.youtube.com/watch?v=JeGdtrLQoiY"
+        },
+        {
+          "titulo": "Vingadores: Era de Ultron ",
+          "url": "https://www.youtube.com/watch?v=I4lgl7ImHSg"
+        },
+        {
+          "titulo": "Truque de Mestre: O 2º Ato",
+          "url": "https://www.youtube.com/watch?v=5jpTwkStcNY"
+        }
+      ]
+    },
+    {
       "titulo": "Front End",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
@@ -74,64 +116,46 @@
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Investimentos",
+      "cor": "#BF00FF",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "URGENTE! TESOURO SELIC ZERA A TAXA ATÉ R$ 10 MIL - Em primeira mão",
+        "url": "https://www.youtube.com/watch?v=u5Yax1LUvjU"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "6 COISAS QUE VOCÊ NÃO DEVE PERDER SEU TEMPO! (mas que você pode estar perdendo)",
+          "url": "https://www.youtube.com/watch?v=TvLL4fGia9E"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "***URGENTE*** NOVA NOTA DE 200 REAIS",
+          "url": "https://www.youtube.com/watch?v=sLE4i2gmpIg"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "DIVIDENDOS MENSAIS: Como ter RENDA PASSIVA TODOS OS MESES na sua carteira!",
+          "url": "https://www.youtube.com/watch?v=W_nt1g1jnok"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "FUNDOS IMOBILIÁRIOS 2020: Fundos baratos e arriscados! Hora de investir? HTMX11, VISC11, HGBS11...",
+          "url": "https://www.youtube.com/watch?v=VtiJChIamyU"
         }
       ]
     },
-    {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
+    
+
+
+
     {
       "titulo": "Games",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "CROSSFIRE X Campaign",
+        "url": "https://www.youtube.com/watch?v=UKiWdtb2Oxs"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "I AM LEGEND 2",
+          "url": "https://www.youtube.com/watch?v=kzoD3ZEipZM"
         },
         {
           "titulo": "Assassins Creed Valhalla",
@@ -146,14 +170,14 @@
           "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Cross Fire X: Open Beta - Online Match Gameplay | Xbox One X (4k 60fps)",
+          "url": "https://www.youtube.com/watch?v=GGVVcorjNFw"
         }
       ]
     },
     {
       "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "cor": "#31B404",
       "link_extra": {
         "text": "Curso sobre aprendizado na Alura",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
